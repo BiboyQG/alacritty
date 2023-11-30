@@ -17,8 +17,8 @@ window:
   # Window dimensions in character columns and lines
   # (changes require restart)
   dimensions:
-    columns: 120
-    lines: 35
+    columns: 130
+    lines: 40
 
   # padding:
   #   x: 10
@@ -31,7 +31,7 @@ window:
   decorations: Buttonless
 
   # Background opacity
-  opacity: 0.80
+  opacity: 1
 
   option_as_alt: Both
   startup_mode: Windowed
